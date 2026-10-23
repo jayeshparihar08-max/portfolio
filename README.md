@@ -7,8 +7,8 @@ A responsive portfolio website showcasing my profile, skills, projects and profe
 
 https://portfolio-opal-alpha-52.vercel.app/
 Keep it near the top.
-<img width="1920" height="1080" alt="" src="https://github.com/user-attachments/assets/633a2f70-85e9-4964-aa92-744e5bc5396a" />
-<img width="1920" height="1080" alt="" src="https://github.com/user-attachments/assets/eb72f3f5-e89f-4243-905f-3fa57af5d5f3" />
+<img width="1920" height="1080" alt="" src="" />
+<img width="1920" height="1080" alt="" src="" />
 
 
 For a portfolio, use:
